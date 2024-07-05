@@ -6,5 +6,5 @@ Credit scores are used as a risk control method in the financial industry. Banks
 
 ## Authors
 
-Kate Lee- 45896968
+Kate Lee
 k4t3l33@gmail.com
